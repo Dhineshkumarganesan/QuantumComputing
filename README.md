@@ -1,11 +1,10 @@
 # QuantumComputing
 A blog that talks about complexities and benefits of Quantum Computing
 
-
-</br>
+</br></br>
 Why are you interested in quantum computing?
 
-</br>
+</br></br>
 Quantum computing will offer the developing world of artificial intelligence more computing power, which in turn will lead to more robust AI systems that can better understand us, "think for themselves," offer more efficient machine learning and better solve small and large problems.
 
 </br>
