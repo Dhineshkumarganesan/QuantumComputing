@@ -28,3 +28,10 @@ Hadamard Gate
 Quantum Inspire
 
 Quantum PE Phase Estimation
+
+Quantum Cloud Vendors
+
+IBM OpenQASM Qiskit
+Google cirq
+Azure q#
+AWS Braket
