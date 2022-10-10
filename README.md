@@ -22,3 +22,9 @@ Why is quantum computing so powerful?
 
 </br></br>
 The predominant explanation of a quantum computer's advantage over a classical computer is that we can prepare quantum bits in a superposition of an exponential number of states. Then, the quantum algorithm computes all possible inputs at the same time.
+
+Hadamard Gate
+
+Quantum Inspire
+
+Quantum PE Phase Estimation
