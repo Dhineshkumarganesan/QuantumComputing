@@ -6,6 +6,11 @@ A blog that talks about complexities and benefits of Quantum Computing
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/d7ddb8b1-0a89-48bd-ab8c-455778acd2ce)
 
 </br></br>
+Classical and Quantum
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/b8a1df11-5ea0-4110-abc6-13c094b1fc4a)
+
+</br></br>
 **Why are you interested in quantum computing?**
 
 </br></br>
