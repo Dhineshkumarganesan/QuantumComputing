@@ -130,6 +130,12 @@ https://github.com/Qiskit-Extensions/quantum-serverless/blob/main/docs/getting_s
 **Component Comparison between Ray and K-native**
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/80e2e649-1170-49e2-9624-75f84b33bd9c)
 
+
+**Cons of Knative**
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/c44c7892-335a-4bde-a8c3-66a8959ecbea)
+
+
 **Pros of Ray**
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/4db0b4e9-508b-4c06-a93d-2ddd28f6c4c3)
