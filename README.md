@@ -42,7 +42,7 @@ https://azure.microsoft.com/en-us/products/quantum </br>
 AWS Braket</br>
 https://aws.amazon.com/de/braket/ </br>
 Atos QLM</br>
-https://atos.net/en/solutions/quantum-learning-machine#qlm</br>
+https://atos.net/en/solutions/quantum-learning-machine#qlm</br></br></br>
 
 **Ray: the Next Generation Compute Runtime for ML Applications**
 
