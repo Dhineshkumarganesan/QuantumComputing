@@ -188,4 +188,7 @@ For custom applications, the Ray Core library enables Python developers to easil
 
 Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing ecosystem of community integrations.
 
+</br>
+**Quantum Presentations** </br>
 
+https://teratec.eu/library/seminaires/2022/TQCI/Integralite_Presentation_EDF_TQCI_6.pdf
