@@ -65,11 +65,11 @@ Use Knative When You Can, and Kubernetes When You Must - David Hadas & Michael M
 https://www.youtube.com/watch?v=0IwysONytqc
 
 May 1, 2023
-Cloud-Native Quantum: Running Quantum Serverless Workloads on Kubernetes - Schweigert & Maximilien
+Cloud-Native Quantum: Running Quantum Serverless Workloads on Kubernetes - Schweigert & Maximilien</br>
 https://www.youtube.com/watch?v=kvD-Y70DOno
 
 Oct 12, 2023  Ray Summit 2023
-Ray, Knative, and Running Serverless Workloads in the Cloud
+Ray, Knative, and Running Serverless Workloads in the Cloud </br>
 https://www.youtube.com/watch?v=zYzyR36g108
 
 https://drive.google.com/file/d/1WiC02hZQhtgA25FD-Kp0CY88167oW9lA/view
