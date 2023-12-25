@@ -1,6 +1,10 @@
 # QuantumComputing
 A blog that talks about complexities and benefits of Quantum Computing
 
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/d7ddb8b1-0a89-48bd-ab8c-455778acd2ce)
+
 </br></br>
 **Why are you interested in quantum computing?**
 
