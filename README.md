@@ -206,7 +206,9 @@ For custom applications, the Ray Core library enables Python developers to easil
 
 Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing ecosystem of community integrations.
 
+**Running Serverless Workloads on k8s using knative**
 
+https://www.cloudthat.com/resources/blog/run-serverless-workloads-on-kubernetes-using-knative
 
 
 **Quantum Presentations** </br>
