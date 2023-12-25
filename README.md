@@ -88,6 +88,11 @@ https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/f45a4227-995c-4aa8-bb37-94ccc12b8d8c)
 
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/86f2811d-ae3a-4a7f-9277-88421ebab06b)
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/af159c83-1446-4a0b-a64c-0de145ccb592)
+
 
 **RAY**
 
@@ -188,7 +193,9 @@ For custom applications, the Ray Core library enables Python developers to easil
 
 Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing ecosystem of community integrations.
 
-</br>
+
+
+
 **Quantum Presentations** </br>
 
 https://teratec.eu/library/seminaires/2022/TQCI/Integralite_Presentation_EDF_TQCI_6.pdf
