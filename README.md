@@ -76,6 +76,8 @@ https://www.youtube.com/watch?v=FZ9XML4KaiY
 **SETUP RAY ON TO KUBERNETES CLUSTER**
 https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/f45a4227-995c-4aa8-bb37-94ccc12b8d8c)
+
 
 **RAY**
 
