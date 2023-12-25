@@ -141,6 +141,10 @@ https://github.com/Qiskit-Extensions/quantum-serverless/blob/main/docs/getting_s
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/4db0b4e9-508b-4c06-a93d-2ddd28f6c4c3)
 
 
+**Cons of Ray**
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/95b8d40e-bd30-4de1-a6ba-e6b764669083)
+
 
 Ray is an open-source unified framework for scaling AI and Python applications like machine learning. It provides the compute layer for parallel processing so that you don’t need to be a distributed systems expert. Ray minimizes the complexity of running your distributed individual and end-to-end machine learning workflows with these components:
 
