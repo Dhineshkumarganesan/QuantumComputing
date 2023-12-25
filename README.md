@@ -107,6 +107,11 @@ https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 **Component Comparison between Ray and K-native**
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/80e2e649-1170-49e2-9624-75f84b33bd9c)
 
+**Pros of Ray**
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/4db0b4e9-508b-4c06-a93d-2ddd28f6c4c3)
+
+
 
 Ray is an open-source unified framework for scaling AI and Python applications like machine learning. It provides the compute layer for parallel processing so that you don’t need to be a distributed systems expert. Ray minimizes the complexity of running your distributed individual and end-to-end machine learning workflows with these components:
 
