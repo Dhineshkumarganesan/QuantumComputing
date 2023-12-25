@@ -256,13 +256,13 @@ https://teratec.eu/library/seminaires/2022/TQCI/Integralite_Presentation_EDF_TQC
 
 https://psschwei.com/speaking/
 
-Middleware for Quantum: Enabling Advanced Quantum Computing Workflows, CloudNativeCon/KubeCon North America (with David Garcia), Chicago: Nov 2023 [abstract] [recording]
+Middleware for Quantum: Enabling Advanced Quantum Computing Workflows, CloudNativeCon/KubeCon North America (with David Garcia), Chicago: Nov 2023 [abstract] [recording -https://www.youtube.com/watch?v=XC1jJjBWAXE]
 
-Making Kubernetes Quantum-Safe: what can we do to protect ourselves now? CloudNativeCon/KubeCon North America (with Dr. Max), Chicago: Nov 2023 [abstract][recording]
+Making Kubernetes Quantum-Safe: what can we do to protect ourselves now? CloudNativeCon/KubeCon North America (with Dr. Max), Chicago: Nov 2023 [abstract][recording - https://www.youtube.com/watch?v=fJAIvuNsv-g]
 
 Surveying the Open Quantum Landscape: Open Source Tools for Quantum Computing, All Things Open (with Iskandar Sitdikov), Raleigh: Oct 2023 [abstract]
 
-Ray, Knative, and Running Serverless Workloads in the Cloud, Ray Summit, San Francisco: Sept 2023 [abstract] [recording]
+Ray, Knative, and Running Serverless Workloads in the Cloud, Ray Summit, San Francisco: Sept 2023 [abstract] [recording -https://www.youtube.com/watch?v=zYzyR36g108]
 
 Quantum Meets Kubernetes: Deploying Serverless Quantum Workloads on OpenShift, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
 
@@ -272,15 +272,15 @@ A Beginner’s Guide for Quantum Circuits with the Qiskit SDK, IBM TechXchange (
 
 Future-Proof your Data: Quantum-Safe Encryption in the Quantum Computing Age, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
 
-Quantum in the Cloud: Running Quantum Workloads on Kubernetes, Open Source Summit North America (with Dr. Max), Vancouver: May 2023 [abstract] [recording]
+Quantum in the Cloud: Running Quantum Workloads on Kubernetes, Open Source Summit North America (with Dr. Max), Vancouver: May 2023 [abstract] [recording -https://www.youtube.com/watch?v=w1h_dsQdtxk]
 
-Knative’s Road Ahead: A Project Update, [CloudNativeCon/KubeCon Europe (with Roland Huss, Naina Singh, David Protasowski, and Mauricio Salatino), Amsterdam: Apr 2023 [abstract] [recording]
+Knative’s Road Ahead: A Project Update, [CloudNativeCon/KubeCon Europe (with Roland Huss, Naina Singh, David Protasowski, and Mauricio Salatino), Amsterdam: Apr 2023 [abstract] [recording - https://www.youtube.com/watch?v=kjMjOJqg80A]
 
-Cloud-Native Quantum: Running Quantum Serverless Workloads on Kubernetes], CloudNativeCon/KubeCon Europe (with Dr. Max), Amsterdam: Apr 2023 [abstract] [recording]
+Cloud-Native Quantum: Running Quantum Serverless Workloads on Kubernetes], CloudNativeCon/KubeCon Europe (with Dr. Max), Amsterdam: Apr 2023 [abstract] [recording -https://www.youtube.com/watch?v=kvD-Y70DOno]
 
 ContribFest - Knative: Level Up Knative Eventing, and Yourself!, CloudNativeCon/KubeCon North America (with Evan Anderson), Detroit: Oct 2022 [abstract]
 
-Novice to Maintainer: Reflections on One Year of Contributing to Knative, KnativeCon North America, Detroit: Oct 2022 [abstract] [recording]
+Novice to Maintainer: Reflections on One Year of Contributing to Knative, KnativeCon North America, Detroit: Oct 2022 [abstract] [recording -https://www.youtube.com/watch?v=pDEXLSoPGYg]
 
-How Fast is FaaS? Reducing Cold Start Times in Knative, KnativeCon Europe (with Carlos Santana), Valencia: May 2022 [abstract] [recording]
+How Fast is FaaS? Reducing Cold Start Times in Knative, KnativeCon Europe (with Carlos Santana), Valencia: May 2022 [abstract] [recording -https://www.youtube.com/watch?v=fv-TkMOM0bk]
 
