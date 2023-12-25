@@ -249,3 +249,38 @@ https://www.cloudthat.com/resources/blog/run-serverless-workloads-on-kubernetes-
 https://drive.google.com/file/d/1WiC02hZQhtgA25FD-Kp0CY88167oW9lA/view
 
 https://teratec.eu/library/seminaires/2022/TQCI/Integralite_Presentation_EDF_TQCI_6.pdf
+
+
+
+**Paul Schweigert Talks**
+
+https://psschwei.com/speaking/
+
+Middleware for Quantum: Enabling Advanced Quantum Computing Workflows, CloudNativeCon/KubeCon North America (with David Garcia), Chicago: Nov 2023 [abstract] [recording]
+
+Making Kubernetes Quantum-Safe: what can we do to protect ourselves now? CloudNativeCon/KubeCon North America (with Dr. Max), Chicago: Nov 2023 [abstract][recording]
+
+Surveying the Open Quantum Landscape: Open Source Tools for Quantum Computing, All Things Open (with Iskandar Sitdikov), Raleigh: Oct 2023 [abstract]
+
+Ray, Knative, and Running Serverless Workloads in the Cloud, Ray Summit, San Francisco: Sept 2023 [abstract] [recording]
+
+Quantum Meets Kubernetes: Deploying Serverless Quantum Workloads on OpenShift, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
+
+Adopting Quantum-Safe Cryptography: Developing with the OpenSSL Stack, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
+
+A Beginner’s Guide for Quantum Circuits with the Qiskit SDK, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
+
+Future-Proof your Data: Quantum-Safe Encryption in the Quantum Computing Age, IBM TechXchange (with Dr. Max), Las Vegas: Sept 2023 [abstract]
+
+Quantum in the Cloud: Running Quantum Workloads on Kubernetes, Open Source Summit North America (with Dr. Max), Vancouver: May 2023 [abstract] [recording]
+
+Knative’s Road Ahead: A Project Update, [CloudNativeCon/KubeCon Europe (with Roland Huss, Naina Singh, David Protasowski, and Mauricio Salatino), Amsterdam: Apr 2023 [abstract] [recording]
+
+Cloud-Native Quantum: Running Quantum Serverless Workloads on Kubernetes], CloudNativeCon/KubeCon Europe (with Dr. Max), Amsterdam: Apr 2023 [abstract] [recording]
+
+ContribFest - Knative: Level Up Knative Eventing, and Yourself!, CloudNativeCon/KubeCon North America (with Evan Anderson), Detroit: Oct 2022 [abstract]
+
+Novice to Maintainer: Reflections on One Year of Contributing to Knative, KnativeCon North America, Detroit: Oct 2022 [abstract] [recording]
+
+How Fast is FaaS? Reducing Cold Start Times in Knative, KnativeCon Europe (with Carlos Santana), Valencia: May 2022 [abstract] [recording]
+
