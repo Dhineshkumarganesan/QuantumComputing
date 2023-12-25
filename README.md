@@ -91,6 +91,7 @@ https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 
 **RAY**
 
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/41a4c250-80a8-4117-8bfb-c133afa7a22a)
 
 
 
