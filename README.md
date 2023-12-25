@@ -44,6 +44,16 @@ https://aws.amazon.com/de/braket/ </br>
 Atos QLM</br>
 https://atos.net/en/solutions/quantum-learning-machine#qlm</br></br></br>
 
+
+QUANTUM SERVERLESS</br>
+</br>
+https://github.com/Qiskit-Extensions/quantum-serverless/tree/main</br>
+
+QISKIT</br>
+</br>
+https://github.com/Qiskit/qiskit</br>
+https://github.com/Qiskit/qiskit-ibm-runtime</br>
+</br>
 **Ray: the Next Generation Compute Runtime for ML Applications**
 
 https://aws.amazon.com/de/blogs/big-data/introducing-aws-glue-for-ray-scaling-your-data-integration-workloads-using-python/
@@ -81,7 +91,7 @@ https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 
 **RAY**
 
-[https://docs.ray.io/en/latest/_images/map-of-ray.svg](https://docs.ray.io/en/latest/_images/map-of-ray.svg)
+
 
 
 Ray is an open-source unified framework for scaling AI and Python applications like machine learning. It provides the compute layer for parallel processing so that you don’t need to be a distributed systems expert. Ray minimizes the complexity of running your distributed individual and end-to-end machine learning workflows with these components:
