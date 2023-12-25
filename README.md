@@ -11,6 +11,13 @@ Classical and Quantum
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/b8a1df11-5ea0-4110-abc6-13c094b1fc4a)
 
 </br></br>
+
+Decompose / Evaluate / Reconstruct
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/43a15e41-0f9f-4d78-9657-7ff074d360a5)
+
+
+</br></br>
 **Why are you interested in quantum computing?**
 
 </br></br>
