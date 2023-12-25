@@ -33,11 +33,16 @@ Quantum PE Phase Estimation
 
 **Quantum Cloud Vendors**
 
-IBM OpenQASM Qiskit
-Google cirq
-Azure q#
-AWS Braket
-Atos QLM
+IBM OpenQASM Qiskit<br>
+https://docs.quantum.ibm.com/ <br>
+Google cirq<br>
+https://quantumai.google/cirq <br>
+Azure Quantum q#<br>
+https://azure.microsoft.com/en-us/products/quantum <br>
+AWS Braket<br>
+https://aws.amazon.com/de/braket/ <br>
+Atos QLM<br>
+https://atos.net/en/solutions/quantum-learning-machine#qlm<br>
 
 **Ray: the Next Generation Compute Runtime for ML Applications**
 
