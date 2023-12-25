@@ -88,8 +88,13 @@ https://docs.ray.io/en/latest/cluster/kubernetes/index.html
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/f45a4227-995c-4aa8-bb37-94ccc12b8d8c)
 
+
+**RAY Cluster Components** </br>
+
+
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/86f2811d-ae3a-4a7f-9277-88421ebab06b)
 
+**How it looks within K8S**  </br>
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/af159c83-1446-4a0b-a64c-0de145ccb592)
 
