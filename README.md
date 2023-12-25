@@ -211,4 +211,6 @@ Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a
 
 **Quantum Presentations** </br>
 
+https://drive.google.com/file/d/1WiC02hZQhtgA25FD-Kp0CY88167oW9lA/view
+
 https://teratec.eu/library/seminaires/2022/TQCI/Integralite_Presentation_EDF_TQCI_6.pdf
