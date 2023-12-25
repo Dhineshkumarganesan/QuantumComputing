@@ -72,6 +72,9 @@ https://github.com/Qiskit/qiskit-ibm-runtime</br>
 </br>
 **Ray: the Next Generation Compute Runtime for ML Applications**
 
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/d9d076f8-da3b-4418-ba1e-d18410552c57)
+
+
 https://aws.amazon.com/de/blogs/big-data/introducing-aws-glue-for-ray-scaling-your-data-integration-workloads-using-python/
 
 https://www.infoq.com/presentations/ray-ml/
