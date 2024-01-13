@@ -3,6 +3,23 @@ A blog that talks about complexities and benefits of Quantum Computing
 
 
 
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/42dd28d5-b7ec-4cbc-aec7-98e082dbbf46)
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/162dfad8-81e7-4097-9698-09ef3e9bc9c7)
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/237e23ea-7cab-4523-9385-57a88acf4f39)
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/4e9a8bb2-8b4a-42cb-905a-82303cce4232)
+
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/0cfba00e-c125-4657-961b-5ca894286fff)
+
+
+
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/d7ddb8b1-0a89-48bd-ab8c-455778acd2ce)
 
 </br></br>
