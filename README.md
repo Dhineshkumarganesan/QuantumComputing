@@ -34,13 +34,13 @@ A blog that talks about complexities and benefits of Quantum Computing
 
 
 </br></br>
-Classical and Quantum
+**Classical and Quantum**
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/b8a1df11-5ea0-4110-abc6-13c094b1fc4a)
 
 </br></br>
 
-Decompose / Evaluate / Reconstruct
+**Decompose / Evaluate / Reconstruct**
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/43a15e41-0f9f-4d78-9657-7ff074d360a5)
 
@@ -55,6 +55,7 @@ Quantum computing will offer the developing world of artificial intelligence mor
 Quantum computers have the potential to revolutionize computation by making certain types of classically intractable problems solvable. While no quantum computer is yet sophisticated enough to carry out calculations that a classical computer can't, great progress is under way
 
 </br></br>
+
 **Why is quantum computing the future?**
 
 </br></br>
@@ -62,6 +63,7 @@ Image result for why quantum computing
 On the other hand, Quantum computing uses qubits that can be both 1 and 0 simultaneously. This allows many calculations to be done simultaneously, so quantum computing is powerful. It's also why it's seen as the future of artificial intelligence and data science
 
 </br></br>
+
 **Why is quantum computing so powerful?**
 
 </br></br>
@@ -69,9 +71,7 @@ The predominant explanation of a quantum computer's advantage over a classical c
 
 **Hadamard Gate**
 
-The Hadamard gate is a fundamental quantum gate used in quantum computing and quantum information processing. It is a one-qubit gate that plays a crucial role in creating quantum superposition. The Hadamard gate is often denoted by the letter 
-�
-H.
+The Hadamard gate is a fundamental quantum gate used in quantum computing and quantum information processing. It is a one-qubit gate that plays a crucial role in creating quantum superposition. The Hadamard gate is often denoted by the letter �H.
 
 The Hadamard gate acts on a single qubit and transforms its state according to the following matrix:
 
@@ -92,6 +92,7 @@ Let's break down the implementation of the Hadamard gate in quantum computing wi
 This operation puts the qubit into an equal superposition of ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/57ca5509-d459-4dc8-b367-ed8b1b42bcbf)
 
 **Pictorial Diagram:**
+
 Let's represent the quantum states and operations graphically:
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/4b708fa3-3b2b-45b5-92c1-059b77965e8f)
@@ -106,6 +107,7 @@ This circuit shows a single qubit (q_0) with a Hadamard gate (H) applied to it.
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/e3432bb8-c1a5-4349-8a3e-58616ad95749)
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/6babc679-660c-446b-b682-2e605f4fc346)
+
 
 **Quantum Superposition**
 
@@ -132,6 +134,18 @@ Albert Einstein famously referred to this phenomenon as "spooky action at a dist
 Quantum entanglement plays a crucial role in various quantum technologies and has been the subject of many experiments and studies in quantum physics. It is a fundamental aspect of the non-local and probabilistic nature of quantum mechanics.
 
 **Quantum Inspire**
+
+Quantum Inspire is a quantum computing platform developed by QuTech, a collaboration between the Delft University of Technology and TNO (Netherlands Organization for Applied Scientific Research) in the Netherlands. Quantum Inspire aims to provide researchers, students, and developers with access to cloud-based quantum computing resources.
+
+Key features of Quantum Inspire include:
+
+Access to Quantum Hardware: Quantum Inspire offers cloud access to real quantum hardware, allowing users to run quantum algorithms on physical quantum processors.
+
+Quantum Simulator: The platform provides a quantum simulator that allows users to simulate the behavior of quantum circuits and algorithms without the need for access to actual quantum hardware. This is valuable for testing and developing quantum algorithms in a controlled environment.
+
+Quantum Development Environment: Quantum Inspire provides a user-friendly environment for developing and running quantum programs. Users can write quantum programs using languages like Qiskit or Quipper, and then execute them on either the simulator or the available quantum hardware.
+
+Educational Resources: Quantum Inspire offers educational resources, tutorials, and documentation to help users learn about quantum computing and develop their quantum programming skills.
 
 **Quantum PE Phase Estimation**
 
