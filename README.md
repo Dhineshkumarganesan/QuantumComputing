@@ -133,25 +133,53 @@ Quantum entanglement plays a crucial role in various quantum technologies and ha
 
 **Quantum Inspire**
 
-Quantum PE Phase Estimation
+**Quantum PE Phase Estimation**
+
+Quantum Phase Estimation (PE) is a quantum algorithm designed to estimate the phase (or eigenvalue) of a unitary operator. It is a key algorithm in quantum computing and has applications in various quantum algorithms, including factoring large numbers efficiently with Shor's algorithm.
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/fb8fc39e-5adc-49ae-b90b-043dbfbbfe16)
+
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/cb9d33f8-9d70-4a5d-b2c7-bd3d3bb411fe)
+
+Quantum Phase Estimation is particularly significant for algorithms like Shor's algorithm for factoring large numbers exponentially faster than the best-known classical algorithms. It also finds applications in problems related to quantum chemistry and optimization.
+
+The algorithm leverages the principles of quantum superposition and interference to efficiently estimate the phase, showcasing the power of quantum parallelism in certain computational tasks.
+
+**Shor's Algorithm**
+
+Shor's algorithm is a quantum algorithm developed by mathematician Peter Shor in 1994. It is designed to efficiently factorize large composite numbers into their prime factors. Shor's algorithm is particularly notable because it has the potential to solve the integer factorization problem exponentially faster than the best-known classical algorithms.
+
+The integer factorization problem involves breaking down a composite number N into its prime factors. Factoring large numbers becomes computationally challenging for classical computers as the size of the number increases, and the security of widely used cryptographic protocols, such as RSA, relies on the difficulty of factoring large numbers.
+
+Here is a high-level overview of Shor's algorithm:
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/92c8d611-121d-41b8-a9e7-8fe7023467f5)
+
+![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/b132c548-ff8d-4642-aa28-71c44270b716)
+
 
 **Quantum Cloud Vendors**
 
 IBM OpenQASM Qiskit></br>
 https://docs.quantum.ibm.com/ </br>
+
 Google cirq</br>
 https://quantumai.google/cirq </br>
+
 Azure Quantum q#</br>
 https://azure.microsoft.com/en-us/products/quantum </br>
+
 AWS Braket</br>
 https://aws.amazon.com/de/braket/ </br>
+
 Atos QLM</br>
 https://atos.net/en/solutions/quantum-learning-machine#qlm</br></br></br>
 
 
-QUANTUM SERVERLESS</br>
-</br>
-https://github.com/Qiskit-Extensions/quantum-serverless/tree/main</br>
+**QUANTUM SERVERLESS**
+
+<br>https://github.com/Qiskit-Extensions/quantum-serverless/tree/main</br>
 
 QISKIT</br>
 </br>
