@@ -501,92 +501,91 @@ https://github.com/Qiskit-Extensions/quantum-serverless/blob/main/docs/getting_s
 
 https://docs.ray.io/en/latest/ray-overview/index.html
 
-Ray is an open-source unified framework for scaling AI and Python applications like machine learning. It provides the compute layer for parallel processing so that you don’t need to be a distributed systems expert. Ray minimizes the complexity of running your distributed individual and end-to-end machine learning workflows with these components:
+**Ray** is an open-source unified framework for scaling AI and Python applications like machine learning. It provides the compute layer for parallel processing so that you don’t need to be a distributed systems expert. Ray minimizes the complexity of running your distributed individual and end-to-end machine learning workflows with these components:
 
-Scalable libraries for common machine learning tasks such as data preprocessing, distributed training, hyperparameter tuning, reinforcement learning, and model serving.
-
-Pythonic distributed computing primitives for parallelizing and scaling Python applications.
-
-Integrations and utilities for integrating and deploying a Ray cluster with existing tools and infrastructure such as Kubernetes, AWS, GCP, and Azure.
-
+      ... Scalable libraries for common machine learning tasks such as data preprocessing, distributed training, hyperparameter tuning, reinforcement learning, and model serving.
+      
+      ... Pythonic distributed computing primitives for parallelizing and scaling Python applications.
+      
+      ... Integrations and utilities for integrating and deploying a Ray cluster with existing tools and infrastructure such as Kubernetes, AWS, GCP, and Azure.
+      
 For data scientists and machine learning practitioners, Ray lets you scale jobs without needing infrastructure expertise:
-
-Easily parallelize and distribute ML workloads across multiple nodes and GPUs.
-
-Leverage the ML ecosystem with native and extensible integrations.
+      
+      ... Easily parallelize and distribute ML workloads across multiple nodes and GPUs.
+      
+      ... Leverage the ML ecosystem with native and extensible integrations.
 
 For ML platform builders and ML engineers, Ray:
 
-Provides compute abstractions for creating a scalable and robust ML platform.
+      ... Provides compute abstractions for creating a scalable and robust ML platform.
 
-Provides a unified ML API that simplifies onboarding and integration with the broader ML ecosystem.
+      ... Provides a unified ML API that simplifies onboarding and integration with the broader ML ecosystem.
 
-Reduces friction between development and production by enabling the same Python code to scale seamlessly from a laptop to a large cluster.
+      ... Reduces friction between development and production by enabling the same Python code to scale seamlessly from a laptop to a large cluster.
 
 For distributed systems engineers, Ray automatically handles key processes:
 
-Orchestration–Managing the various components of a distributed system.
+      ... Orchestration–Managing the various components of a distributed system.
 
-Scheduling–Coordinating when and where tasks are executed.
+      ... Scheduling–Coordinating when and where tasks are executed.
 
-Fault tolerance–Ensuring tasks complete regardless of inevitable points of failure.
+      ... Fault tolerance–Ensuring tasks complete regardless of inevitable points of failure.
 
-Auto-scaling–Adjusting the number of resources allocated to dynamic demand.
+      ... Auto-scaling–Adjusting the number of resources allocated to dynamic demand.
 
-What you can do with Ray
+**What you can do with Ray**
+
 These are some common ML workloads that individuals, organizations, and companies leverage Ray to build their AI applications:
 
-Batch inference on CPUs and GPUs
+     ... Batch inference on CPUs and GPUs
 
-Model serving
+     ... Model serving
 
-Distributed training of large models
+     ... Distributed training of large models
 
-Parallel hyperparameter tuning experiments
+     ... Parallel hyperparameter tuning experiments
 
-Reinforcement learning
+     ... Reinforcement learning
 
-ML platform
+     ... ML platform
 
-Ray framework
+**Ray framework**... 
+
 ../_images/map-of-ray.svg
 
-Stack of Ray libraries - unified toolkit for ML workloads.
+**Stack of Ray libraries - unified toolkit for ML workloads.**
 
 Ray’s unified compute framework consists of three layers:
 
-Ray AI Libraries–An open-source, Python, domain-specific set of libraries that equip ML engineers, data scientists, and researchers with a scalable and unified toolkit for ML applications.
+     ... Ray AI Libraries–An open-source, Python, domain-specific set of libraries that equip ML engineers, data scientists, and researchers with a scalable and unified toolkit for ML applications.
 
-Ray Core–An open-source, Python, general purpose, distributed computing library that enables ML engineers and Python developers to scale Python applications and accelerate machine learning workloads.
+     ... Ray Core–An open-source, Python, general purpose, distributed computing library that enables ML engineers and Python developers to scale Python applications and accelerate machine learning workloads.
 
-Ray Clusters–A set of worker nodes connected to a common Ray head node. Ray clusters can be fixed-size, or they can autoscale up and down according to the resources requested by applications running on the cluster.
+     ... Ray Clusters–A set of worker nodes connected to a common Ray head node. Ray clusters can be fixed-size, or they can autoscale up and down according to the resources requested by applications running on the cluster.
 
-Scale machine learning workloads
+**Scale machine learning workloads**
 
-Build ML applications with a toolkit of libraries for distributed data processing, model training, tuning, reinforcement learning, model serving, and more.
+    ... Build ML applications with a toolkit of libraries for distributed data processing, model training, tuning, reinforcement learning, model serving, and more.
 
+    ... Build distributed applications
 
-Build distributed applications
+    ... Build and run distributed applications with a simple and flexible API. Parallelize single machine code with little to zero code changes.
 
-Build and run distributed applications with a simple and flexible API. Parallelize single machine code with little to zero code changes.
-
-
-Deploy large-scale workloads
+**Deploy large-scale workloads**
 
 Deploy workloads on AWS, GCP, Azure or on premise. Use Ray cluster managers to run Ray on existing Kubernetes, YARN, or Slurm clusters.
 
-
 Each of Ray’s five native libraries distributes a specific ML task:
 
-Data: Scalable, framework-agnostic data loading and transformation across training, tuning, and prediction.
-
-Train: Distributed multi-node and multi-core model training with fault tolerance that integrates with popular training libraries.
-
-Tune: Scalable hyperparameter tuning to optimize model performance.
-
-Serve: Scalable and programmable serving to deploy models for online inference, with optional microbatching to improve performance.
-
-RLlib: Scalable distributed reinforcement learning workloads.
+   ** Data: Scalable, framework-agnostic data loading and transformation across training, tuning, and prediction.**
+    
+  **  Train: Distributed multi-node and multi-core model training with fault tolerance that integrates with popular training libraries.**
+    
+  **  Tune: Scalable hyperparameter tuning to optimize model performance.**
+    
+  **  Serve: Scalable and programmable serving to deploy models for online inference, with optional microbatching to improve performance.**
+    
+ **   RLlib: Scalable distributed reinforcement learning workloads.**
 
 Ray’s libraries are for both data scientists and ML engineers alike. For data scientists, these libraries can be used to scale individual workloads, and also end-to-end ML applications. For ML Engineers, these libraries provides scalable platform abstractions that can be used to easily onboard and integrate tooling from the broader ML ecosystem.
 
