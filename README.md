@@ -429,3 +429,14 @@ Novice to Maintainer: Reflections on One Year of Contributing to Knative, Knativ
 
 How Fast is FaaS? Reducing Cold Start Times in Knative, KnativeCon Europe (with Carlos Santana), Valencia: May 2022 [abstract] [recording -https://www.youtube.com/watch?v=fv-TkMOM0bk]
 
+
+
+**arxiv.org repo links**
+
+**The Future of Quantum Computing with Superconducting Qubits - 29 November 2022**
+
+https://arxiv.org/pdf/2209.06841.pdf
+
+**A Reference Architecture for Quantum Computing as a Service -3 June 2023**
+
+https://arxiv.org/pdf/2306.04578.pdf
