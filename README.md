@@ -2,8 +2,8 @@
 A blog that talks about complexities and benefits of Quantum Computing
 
 
-Quantum Computing Providers
-There are already several providers who sell access to quantum computers, as the technology improves more may enter the field:
+Quantum Computing Providers<br>
+There are already several providers who sell access to quantum computers, as the technology improves more may enter the field:<br>
 
 Amazon Braket
 https://aws.amazon.com/braket/<br>
@@ -12,33 +12,33 @@ https://annealing-cloud.com/en/index.html<br>
 Atom Computing
 https://atom-computing.com/<br>
 Azure Quantum
-https://azure.microsoft.com/en-us/services/quantum/
+https://azure.microsoft.com/en-us/services/quantum/<br>
 AQT
-https://www.aqt.eu/
+https://www.aqt.eu/<br>
 Baidu
-https://quantum.baidu.com/
+https://quantum.baidu.com/<br>
 Bleximo
-https://bleximo.com/
+https://bleximo.com/<br>
 ColdQuanta
-https://coldquanta.com/
+https://coldquanta.com/<br>
 D-Wave Systems
-https://www.dwavesys.com/
+https://www.dwavesys.com/<br>
 Honeywell Quantum Solutions
-https://www.honeywell.com/us/en/company/quantum
+https://www.honeywell.com/us/en/company/quantum<br>
 IBM Quantum Computing
-https://www.ibm.com/quantum
+https://www.ibm.com/quantum<br>
 IonQ
-https://ionq.com/
+https://ionq.com/<br>
 IQM Quantum Computers
-https://www.meetiqm.com/
+https://www.meetiqm.com/<br>
 Qutech Quantum Inspire
-https://www.quantum-inspire.com/
+https://www.quantum-inspire.com/<br>
 Quantinuum
-https://www.quantinuum.com/
+https://www.quantinuum.com/<br>
 Rigetti Computing
-https://www.rigetti.com/
+https://www.rigetti.com/<br>
 Xanadu
-https://www.xanadu.ai/cloud
+https://www.xanadu.ai/cloud<br>
 
 In addition to individual cloud providers, platforms such as Strangeworks act as consolidation services.
 
