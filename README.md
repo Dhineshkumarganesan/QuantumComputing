@@ -6,11 +6,11 @@ Quantum Computing Providers
 There are already several providers who sell access to quantum computers, as the technology improves more may enter the field:
 
 Amazon Braket
-https://aws.amazon.com/braket/
+https://aws.amazon.com/braket/<br>
 Annealing Cloud Web
-https://annealing-cloud.com/en/index.html
+https://annealing-cloud.com/en/index.html<br>
 Atom Computing
-https://atom-computing.com/
+https://atom-computing.com/<br>
 Azure Quantum
 https://azure.microsoft.com/en-us/services/quantum/
 AQT
