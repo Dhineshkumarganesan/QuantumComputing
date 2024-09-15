@@ -2,6 +2,47 @@
 A blog that talks about complexities and benefits of Quantum Computing
 
 
+Quantum Computing Providers
+There are already several providers who sell access to quantum computers, as the technology improves more may enter the field:
+
+Amazon Braket
+https://aws.amazon.com/braket/
+Annealing Cloud Web
+https://annealing-cloud.com/en/index.html
+Atom Computing
+https://atom-computing.com/
+Azure Quantum
+https://azure.microsoft.com/en-us/services/quantum/
+AQT
+https://www.aqt.eu/
+Baidu
+https://quantum.baidu.com/
+Bleximo
+https://bleximo.com/
+ColdQuanta
+https://coldquanta.com/
+D-Wave Systems
+https://www.dwavesys.com/
+Honeywell Quantum Solutions
+https://www.honeywell.com/us/en/company/quantum
+IBM Quantum Computing
+https://www.ibm.com/quantum
+IonQ
+https://ionq.com/
+IQM Quantum Computers
+https://www.meetiqm.com/
+Qutech Quantum Inspire
+https://www.quantum-inspire.com/
+Quantinuum
+https://www.quantinuum.com/
+Rigetti Computing
+https://www.rigetti.com/
+Xanadu
+https://www.xanadu.ai/cloud
+
+In addition to individual cloud providers, platforms such as Strangeworks act as consolidation services.
+
+
 
 ![image](https://github.com/Dhineshkumarganesan/QuantumComputing/assets/59999899/42dd28d5-b7ec-4cbc-aec7-98e082dbbf46)
 
